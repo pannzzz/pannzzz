@@ -1,7 +1,6 @@
-<h1 align="center"><b>Hi , I'm Maria Jose Jimenez </b><img src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif" width="60"></h1>
+<h1 align="center"><img src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif" width="60"><b>Hi , I'm Maria Jose Jimenez </b><img src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif" width="60"></h1>
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" />
-<img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/08/a8/3b/08a83bca77fa046b6525086ad3a84fe9.gif" />
 
 <img src="https://i.pinimg.com/originals/fc/48/e4/fc48e4677fcff30b3381cb177fea9ccb.gif" width="40px">&nbsp;***About me***<img src="https://i.pinimg.com/originals/fc/48/e4/fc48e4677fcff30b3381cb177fea9ccb.gif" width="40px">
 
@@ -11,7 +10,9 @@ I am a software development student and a passionate frontend and backend develo
   - Vue.js  
   - Dart  
   - Vite.js  
-  - Advanced React and modern web development practices  
+  - Advanced React and modern web development practices
+    <img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/08/a8/3b/08a83bca77fa046b6525086ad3a84fe9.gif" />
+
 
 - 👯 Open to collaborating on exciting and innovative open-source projects.  
 - ✔ Ask me about web development, React, or Python. I’m happy to help!  
@@ -59,7 +60,7 @@ I am a software development student and a passionate frontend and backend develo
 </div>
 
 <h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
 
