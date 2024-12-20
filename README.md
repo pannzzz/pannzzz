@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi , I'm Maria Jose Jimenez </b><img src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif" width="60"></h1>
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/08/a8/3b/08a83bca77fa046b6525086ad3a84fe9.gif" />
 
 <img src="https://i.pinimg.com/originals/fc/48/e4/fc48e4677fcff30b3381cb177fea9ccb.gif" width="40px">&nbsp;***About me***<img src="https://i.pinimg.com/originals/fc/48/e4/fc48e4677fcff30b3381cb177fea9ccb.gif" width="40px">
 
